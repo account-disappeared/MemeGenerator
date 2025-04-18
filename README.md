@@ -1,5 +1,5 @@
-# Meme Generator
-###### A side project by a bored High School Freshman
+# 😹Meme Generator
+###### A side project by a bored High School Freshman🏫
 
 ---
 
@@ -15,11 +15,11 @@
 
 ### How to run it
 
-#### Website (no actual function)
+#### Website (no actual function)🕸️
 If you go [here](https://meme-generator-1009835531129.us-central1.run.app/).
 You can check out the GUI and the meme templates, you cannot generate a meme caption as the LLM is not running
 
-#### Local Python
+#### Local Python🐍
 when you have set up your LLM
 
 Run:
@@ -28,7 +28,7 @@ Run:
 
 when you are in a python virtual enviroment
 
-#### Local Docker
+#### Local Docker🐋
 when you have set up your LLM
 
 Build the docker image and run from the docker engine
