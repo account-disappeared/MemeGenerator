@@ -41,4 +41,4 @@ The whole app is done using 3 main libraries:
 * Streamlit for GUI
 * Pillow for text overlay
 * Huggingface Endpoint for LLM calls
-
+* TinyDB for sotring Meme templates
