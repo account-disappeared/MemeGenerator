@@ -61,4 +61,4 @@ Changelog📃
 - Only supports English characters.
 
 #### 0.2 --***Operation LLM: 2025/5/17***
-- Improved existing prompts: `generate_captions_upload(prompt, style)` and ` generate_captions(prompt, style, template_url)` for better direction following and better results
+- Improved existing prompts: `generate_captions_upload(prompt, style)` and `generate_captions(prompt, style, template_url)` for better direction following and better results
