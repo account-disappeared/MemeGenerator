@@ -42,3 +42,23 @@ The whole app is done using 3 main libraries:
 * Pillow for text overlay
 * Huggingface Endpoint for LLM calls
 * TinyDB for storing Meme templates
+
+---
+
+### Roadmap
+ - [x] BETTER Prompts
+ - [ ] use FastAPI to make a backend for LLM calls
+ - [ ] Integrate with my [RAG chatbot](https://github.com/account-disappeared/RAG-Chatbot)
+ - [ ] change UI language
+ - [ ] support different language fonts
+ - [ ] rewrite frontend using React
+---
+
+Changelog📃
+
+#### 0.1 -- ***Initial Release: 2025/4/18***
+- Includes all basic functions as described above
+- Only supports English characters.
+
+#### 0.2 --***Operation LLM: 2025/5/17***
+- Improved existing prompts: `generate_captions_upload(prompt, style)` and ` generate_captions(prompt, style, template_url)` for better direction following and better results
